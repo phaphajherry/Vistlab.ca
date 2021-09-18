@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 18 Sep 2021 00:48:35 at https://vistlabs.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://vistlabs.com/ -O1 "D:\Asus ROG\Desktop\VISTLAB CLONE" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:49:27	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://vistlabs.com/)
+00:51:51	Warning: 	Retry after error -4 (Incorrect length (10465 Bytes, 12186 expected)) at link https://vistlabs.com/team/ (from https://vistlabs.com/)
+00:51:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://vistlabs.com/wp-content/uploads/2021/07/PACKAING2-1024x894.png (from https://vistlabs.com/)
+00:52:00	Warning: 	Retry after error -4 (Incorrect length (88129 Bytes, 109168 expected)) at link https://vistlabs.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.12.0 (from https://vistlabs.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.12.0)
+00:52:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://vistlabs.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.12.0 (from https://vistlabs.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.12.0)
+00:52:00	Error: 	"Not Found" (404) at link https://vistlabs.com/wp-content/plugins/ultimate-elementor/assets/images/shade.png (from https://vistlabs.com/wp-content/plugins/ultimate-elementor/assets/min-css/uael-frontend.min.css?ver=1.33.2)
+00:52:00	Warning: 	Retry after error -4 (Incorrect length (555639 Bytes, 2178172 expected)) at link https://vistlabs.com/wp-content/uploads/2021/07/lake-v.png (from https://vistlabs.com/wp-content/uploads/elementor/css/post-11.css?ver=1631067416)
+00:52:00	Warning: 	Retry after error -4 (Incorrect length (342620 Bytes, 1583810 expected)) at link https://vistlabs.com/wp-content/uploads/2021/07/2021-07-27-22.14.29.jpeg (from https://vistlabs.com/wp-content/uploads/elementor/css/post-11.css?ver=1631067416)
+00:52:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://vistlabs.com/wp-content/uploads/2021/07/2021-07-29-00.19.30-scaled.jpg (from https://vistlabs.com/wp-content/uploads/elementor/css/post-11.css?ver=1631067416)
+00:52:03	Warning: 	Retry after error -4 (Incorrect length (29192 Bytes, 432286 expected)) at link https://vistlabs.com/wp-content/uploads/2021/07/elise-zimmerman-NKyXshltqLo-unsplash-1.jpg (from https://vistlabs.com/wp-content/uploads/elementor/css/post-11.css?ver=1631067416)
+00:52:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://vistlabs.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot (from https://vistlabs.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3)
+00:52:13	Warning: 	Moved Permanently for https://vistlabs.com/?p=169
+00:52:13	Warning: 	File has moved from https://vistlabs.com/?p=169 to https://vistlabs.com/the-problem/
+00:52:13	Warning: 	Moved Permanently for https://vistlabs.com/?p=129
+00:52:13	Warning: 	File has moved from https://vistlabs.com/?p=129 to https://vistlabs.com/the-process/
+00:52:13	Warning: 	Moved Permanently for https://vistlabs.com/?p=148
+00:52:13	Warning: 	File has moved from https://vistlabs.com/?p=148 to https://vistlabs.com/the-process/mobile-platform/
+00:52:15	Warning: 	Moved Permanently for https://vistlabs.com/?p=233
+00:52:15	Warning: 	File has moved from https://vistlabs.com/?p=233 to https://vistlabs.com/the-process/indicative-screening/
+00:52:15	Warning: 	Moved Permanently for https://vistlabs.com/?p=234
+00:52:15	Warning: 	File has moved from https://vistlabs.com/?p=234 to https://vistlabs.com/the-process/purification/
+00:52:15	Warning: 	Moved Permanently for https://vistlabs.com/?p=235
+00:52:15	Warning: 	File has moved from https://vistlabs.com/?p=235 to https://vistlabs.com/the-process/amaps-packaging/
+00:52:19	Warning: 	Moved Permanently for https://vistlabs.com/?p=187
+00:52:19	Warning: 	File has moved from https://vistlabs.com/?p=187 to https://vistlabs.com/contact-us/
+00:52:19	Warning: 	Moved Permanently for https://vistlabs.com/?p=291
+00:52:19	Warning: 	File has moved from https://vistlabs.com/?p=291 to https://vistlabs.com/terms-of-use/
+00:52:19	Warning: 	Moved Permanently for https://vistlabs.com/?p=289
+00:52:19	Warning: 	File has moved from https://vistlabs.com/?p=289 to https://vistlabs.com/privacy-policy/
+00:52:19	Warning: 	Link https://vistlabs.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+00:52:20	Warning: 	Moved Permanently for https://vistlabs.com/?p=214
+00:52:20	Warning: 	File has moved from https://vistlabs.com/?p=214 to https://vistlabs.com/team/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 46 seconds : 190 links scanned, 167 files written (18175086 bytes overall) [13152956 bytes received at 58198 bytes/sec], 7232962 bytes transferred using HTTP compression in 119 files, ratio 27%, 6.7 requests per connection
+(2 errors, 30 warnings, 0 messages)
